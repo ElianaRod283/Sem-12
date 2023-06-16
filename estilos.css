@@ -1,0 +1,42 @@
+ *{
+                margin:0;
+                padding:0;
+                box-sizing: border-box;
+            }
+            .form-register{
+                width: 400px;
+                background: graytext;
+                padding: 30px;
+                margin: auto;
+                margin-top: 100px;
+                border-radius: 5px;
+                font-family: 'calibri';
+                color: white;
+            }
+            .form-register h4 {
+                font-size: 22px;
+                margin-bottom: 20px;
+                text-align: center;
+            }
+            .form-register h5 {
+                font-size: 18px;
+                margin-bottom: 10px;
+            }
+            .controls{
+                width: 100%;
+                background: #ffcc66;
+                padding: 10px;
+                border-radius: 5px;
+                margin-bottom: 16px;
+                border: 1px solid;
+                font-family: 18px;
+            }
+            .form-register button{
+                width: 100%;
+                background: cadetblue;
+                border: none;
+                padding: 12px;
+                color: white;
+                margin:16px 0px;
+                font-size: 16px;
+            }
